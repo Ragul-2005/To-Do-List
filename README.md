@@ -3,11 +3,13 @@
 ## Project Overview
 
 A simple, elegant, and responsive To-Do List Web App built using HTML, CSS, and JavaScript. This app allows you to manage tasks efficiently with a clean and modern UI.
+
 ---
 
 ## Features
 
 -✅ Add Tasks – Quickly add new tasks using input and button or the Enter key.
+
 -✅ Mark as Complete – Toggle tasks between active and completed states.
 -✅ Delete Tasks – Remove unwanted tasks easily.
 -✅ Complete All – Mark all active tasks as completed in one click.
@@ -17,6 +19,7 @@ A simple, elegant, and responsive To-Do List Web App built using HTML, CSS, and 
 -✅ Animated Notifications – Success and error alerts with smooth animations.
 -✅ Auto Timestamp – Each task includes a timestamp for better tracking.
 -✅ Smooth UI Interactions – Hover effects, animations, and counters.
+
 ---
 
 ## Technologies Used
@@ -24,18 +27,20 @@ A simple, elegant, and responsive To-Do List Web App built using HTML, CSS, and 
 -HTML5 – Structure of the app.
 -CSS3 – Styling with gradients, animations, and responsive design.
 -JavaScript (ES6) – App logic and dynamic task management.
+
 ---
 
 ## Project Code
 
 The full source code is available in [`index.html`](index.html)
+
 ---
 
 ## Screenshots
 
 ### Output 1
 
-![Output 1](Ouputs/Screenshot1.jpg)
+![Ouput 1](Ouputs/Screenshot1.jpg)
 
 ### Output 2
 
@@ -61,7 +66,7 @@ The full source code is available in [`index.html`](index.html)
 
 ## 📝 License
 
-This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is open-sourced under the MIT License. See the [LICENCE](LICENCE) file for details.
 
 
 
