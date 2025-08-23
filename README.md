@@ -24,9 +24,9 @@ A simple, elegant, and responsive To-Do List Web App built using HTML, CSS, and 
 
 ## Technologies Used
 
--HTML5 – Structure of the app.
--CSS3 – Styling with gradients, animations, and responsive design.
--JavaScript (ES6) – App logic and dynamic task management.
+- HTML5 – Structure of the app.
+- CSS3 – Styling with gradients, animations, and responsive design.
+- JavaScript (ES6) – App logic and dynamic task management.
 
 ---
 
@@ -53,10 +53,10 @@ The full source code is available in [`index.html`](index.html)
 
 ## Future Improvements
 
--🗂 Local Storage to persist tasks even after refreshing the page.
--🎨 Dark Mode for better accessibility.
--🔍 Search & Filter options to easily manage large task lists.
--📱 Progressive Web App (PWA) support for offline usage.
+- 🗂 Local Storage to persist tasks even after refreshing the page.
+- 🎨 Dark Mode for better accessibility.
+- 🔍 Search & Filter options to easily manage large task lists.
+- 📱 Progressive Web App (PWA) support for offline usage.
 ---
 
 ## 👨‍💻 Developed By
