@@ -8,17 +8,17 @@ A simple, elegant, and responsive To-Do List Web App built using HTML, CSS, and 
 
 ## Features
 
--✅ Add Tasks – Quickly add new tasks using input and button or the Enter key.
+- ✅ **Add Tasks** – Quickly add new tasks using input and button or the Enter key.
+- ✅ **Mark as Complete** – Toggle tasks between active and completed states.
+- ✅ **Delete Tasks** – Remove unwanted tasks easily.
+- ✅ **Complete All** – Mark all active tasks as completed in one click.
+- ✅ **Clear Completed** – Remove all completed tasks with a single click.
+- ✅ **Task Statistics** – View real-time stats: Total, Active, Completed, and Cleared tasks.
+- ✅ **Responsive Design** – Works smoothly on desktops, tablets, and mobile devices.
+- ✅ **Animated Notifications** – Success and error alerts with smooth animations.
+- ✅ **Auto Timestamp** – Each task includes a timestamp for better tracking.
+- ✅ **Smooth UI Interactions** – Hover effects, animations, and counters.
 
--✅ Mark as Complete – Toggle tasks between active and completed states.
--✅ Delete Tasks – Remove unwanted tasks easily.
--✅ Complete All – Mark all active tasks as completed in one click.
--✅ Clear Completed – Remove all completed tasks with a single click.
--✅ Task Statistics – View real-time stats: Total, Active, Completed, and Cleared tasks.
--✅ Responsive Design – Works smoothly on desktops, tablets, and mobile devices.
--✅ Animated Notifications – Success and error alerts with smooth animations.
--✅ Auto Timestamp – Each task includes a timestamp for better tracking.
--✅ Smooth UI Interactions – Hover effects, animations, and counters.
 
 ---
 
@@ -40,7 +40,7 @@ The full source code is available in [`index.html`](index.html)
 
 ### Output 1
 
-![Ouput 1](Ouputs/Screenshot1.jpg)
+![Ouput 1](Outputs/Screenshot1.jpg)
 
 ### Output 2
 
